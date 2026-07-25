@@ -1,34 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F2027,100:2C5364&height=280&section=header&text=UMER%20SHAIKH&fontSize=72&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Limitless%20Builder%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=B3F5FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=UMER%20SHAIKH&fontSize=72&fontColor=A78BFA&animation=twinkling&fontAlignY=35&desc=Limitless%20Builder%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=E0AAFF" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=27&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=60&lines=Zero+Latency%2C+Infinite+Output;AI+%2F+ML+Engineer+%E2%9A%A1+Full+Stack+Developer;Co-Founder+%40+Clyra;Six+Hours+of+Sleep%2C+Unlimited+Deploys" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=27&duration=2200&pause=700&color=B983FF&center=true&vCenter=true&width=850&height=60&lines=Zero+Latency%2C+Infinite+Output;AI+%2F+ML+Engineer+%E2%9A%A1+Full+Stack+Developer;Co-Founder+%40+Clyra;Six+Hours+of+Sleep%2C+Unlimited+Deploys" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CS%20%26%20Business%20Engineering-2025--2029-00B8D9?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/Dr.%20D.Y.%20Patil%20RAIT-Navi%20Mumbai-0091AD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=000814" />
+<img src="https://img.shields.io/badge/B.Tech%20CS%20%26%20Business%20Engineering-2025--2029-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/Dr.%20D.Y.%20Patil%20RAIT-Navi%20Mumbai-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0F0C29" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-clyra.co.in-00E5FF?style=for-the-badge&labelColor=000814)](https://clyra.co.in)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-umershaikh--ai-00E5FF?style=for-the-badge&labelColor=000814)](https://linkedin.com/in/umershaikh-ai)
-[![Email](https://img.shields.io/badge/📧_Email-umershaikh1444-00E5FF?style=for-the-badge&labelColor=000814)](mailto:umershaikh1444@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Umer1444-00E5FF?style=for-the-badge&labelColor=000814)](https://github.com/Umer1444)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-clyra.co.in-B983FF?style=for-the-badge&labelColor=0F0C29)](https://clyra.co.in)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-umershaikh--ai-B983FF?style=for-the-badge&labelColor=0F0C29)](https://linkedin.com/in/umershaikh-ai)
+[![Email](https://img.shields.io/badge/📧_Email-umershaikh1444-B983FF?style=for-the-badge&labelColor=0F0C29)](mailto:umershaikh1444@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Umer1444-B983FF?style=for-the-badge&labelColor=0F0C29)](https://github.com/Umer1444)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Umer1444&style=for-the-badge&color=00B8D9&label=PROFILE+VIEWS&labelColor=000814)
-![Followers](https://img.shields.io/github/followers/Umer1444?style=for-the-badge&color=0091AD&label=FOLLOWERS&labelColor=000814)
-![Stars](https://img.shields.io/github/stars/Umer1444?style=for-the-badge&color=00E5FF&label=STARS&labelColor=000814)
+![Profile Views](https://komarev.com/ghpvc/?username=Umer1444&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS&labelColor=0F0C29)
+![Followers](https://img.shields.io/github/followers/Umer1444?style=for-the-badge&color=6A0DAD&label=FOLLOWERS&labelColor=0F0C29)
+![Stars](https://img.shields.io/github/stars/Umer1444?style=for-the-badge&color=B983FF&label=STARS&labelColor=0F0C29)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## ⚡ About Me
 
@@ -48,7 +44,7 @@ open_to:
   - Freelance AI product builds via Clyra
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🔷 Tech Stack
 
@@ -72,7 +68,7 @@ open_to:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🧠 AI / ML Expertise
 
@@ -80,16 +76,16 @@ open_to:
 
 | Domain | Level | Details |
 |---|---|---|
-| 🔵 Machine Learning | ██████████ Advanced | Scikit-learn, Random Forest, XGBoost, model evaluation pipelines |
-| 🔵 NLP & LLM Integration | ██████████ Advanced | OpenAI API, prompt engineering, sentiment & emotion detection |
-| ⚪ Data Engineering | ████████░░ Proficient | Pandas, NumPy, feature engineering, preprocessing |
-| ⚪ MLOps & Deployment | ███████░░░ Proficient | Streamlit, FastAPI, CI/CD, GCP, AWS |
-| ⚪ RAG Systems | ███████░░░ Proficient | Retrieval-augmented generation, Azure AI Foundry SDK |
-| 🔵 Generative AI | ████████░░ Proficient | GPT-4o, prompt design, LLM-powered product engineering |
+| 🟣 Machine Learning | ██████████ Advanced | Scikit-learn, Random Forest, XGBoost, model evaluation pipelines |
+| 🟣 NLP & LLM Integration | ██████████ Advanced | OpenAI API, prompt engineering, sentiment & emotion detection |
+| 🔵 Data Engineering | ████████░░ Proficient | Pandas, NumPy, feature engineering, preprocessing |
+| 🔵 MLOps & Deployment | ███████░░░ Proficient | Streamlit, FastAPI, CI/CD, GCP, AWS |
+| 🔵 RAG Systems | ███████░░░ Proficient | Retrieval-augmented generation, Azure AI Foundry SDK |
+| 🟣 Generative AI | ████████░░ Proficient | GPT-4o, prompt design, LLM-powered product engineering |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🚀 Featured Projects
 
@@ -144,7 +140,7 @@ A production invoice management platform with automated workflows, designed to e
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 💼 Experience
 
@@ -160,16 +156,16 @@ Co-founded Clyra, a freelance development studio delivering AI-enabled web produ
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-00B8D9?style=for-the-badge&logo=python&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/Next.js-0091AD?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/FastAPI-00B8D9?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/OpenAI-0091AD?style=for-the-badge&logo=openai&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/Google%20Cloud-00B8D9?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000814" />
-<img src="https://img.shields.io/badge/AWS-0091AD?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000814" />
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/Next.js-6A0DAD?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/OpenAI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/Google%20Cloud-8A2BE2?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0F0C29" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🏆 Achievements
 
@@ -184,7 +180,7 @@ Co-founded Clyra, a freelance development studio delivering AI-enabled web produ
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 💻 Coding Profiles
 
@@ -197,28 +193,28 @@ Co-founded Clyra, a freelance development studio delivering AI-enabled web produ
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umer1444&show_icons=true&theme=tokyonight&bg_color=000814&title_color=00E5FF&icon_color=00B8D9&text_color=B3F5FF&border_color=0091AD&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer1444&layout=compact&theme=tokyonight&bg_color=000814&title_color=00E5FF&text_color=B3F5FF&border_color=0091AD&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umer1444&show_icons=true&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&icon_color=8A2BE2&text_color=E0AAFF&border_color=6A0DAD&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer1444&layout=compact&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&text_color=E0AAFF&border_color=6A0DAD&hide_border=false" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umer1444&theme=tokyonight&background=000814&ring=00B8D9&fire=00E5FF&currStreakLabel=B3F5FF&sideLabels=B3F5FF&currStreakNum=00E5FF&sideNums=00E5FF&dates=0091AD&border=0091AD" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umer1444&theme=tokyonight&background=0F0C29&ring=8A2BE2&fire=B983FF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=B983FF&sideNums=B983FF&dates=6A0DAD&border=6A0DAD" />
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Umer1444&theme=algolia&no-frame=false&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🌐 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umer1444&bg_color=000814&color=00E5FF&line=00B8D9&point=B3F5FF&area=true&area_color=0091AD&border_color=0091AD&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umer1444&bg_color=0F0C29&color=B983FF&line=8A2BE2&point=E0AAFF&area=true&area_color=6A0DAD&border_color=6A0DAD&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umer1444/Umer1444/output/github-snake-dark.svg" />
@@ -228,7 +224,7 @@ Co-founded Clyra, a freelance development studio delivering AI-enabled web produ
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🔭 Current Focus
 
@@ -253,7 +249,7 @@ current_focus:
     - Freelance AI product builds via Clyra
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/213910380-1a43137d-cd35-4835-9a97-9891318360f9.gif" width="100%" height="4px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 📡 Connect
 
@@ -262,7 +258,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-umershaikh1444-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umershaikh1444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umershaikh--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umershaikh-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Umer1444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umer1444)
-[![Portfolio](https://img.shields.io/badge/Portfolio-clyra.co.in-00B8D9?style=for-the-badge&logo=vercel&logoColor=white)](https://clyra.co.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clyra.co.in-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://clyra.co.in)
 
 </div>
 
@@ -270,6 +266,6 @@ current_focus:
 
 *Engineering systems that think — one model, one product, one deployment at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:000000&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer" width="100%" />
 
 </div>
