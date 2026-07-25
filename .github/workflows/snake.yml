@@ -1,27 +1,32 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    # Runs daily at 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+  generate-snake:
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
+      - name: Generate snake animation SVGs
+        uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: Umer1444
           outputs: |
-            dist/github-snake.svg?color_snake=A78BFA&color_dots=#0D1117,#4C1D95,#6D28D9,#7C3AED,#A78BFA
-            dist/github-snake-dark.svg?color_snake=A78BFA&color_dots=#0D1117,#4C1D95,#6D28D9,#7C3AED,#A78BFA
+            dist/github-snake-dark.svg?color_snake=#ff4fd8&color_dots=#2a1640,#8b3bff,#a855f7,#ff4fd8,#ff8ae2
+            dist/github-snake-light.svg?color_snake=#d6249f&color_dots=#f6e9ff,#c9a4ff,#9d5cf5,#eb5bc2,#d6249f&color_dot_border=#00000000
+            dist/github-snake.gif?color_snake=#ff4fd8&color_dots=#2a1640,#8b3bff,#a855f7,#ff4fd8,#ff8ae2
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake output to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
